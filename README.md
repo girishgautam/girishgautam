@@ -19,7 +19,7 @@ Hey there! I'm thrilled to welcome you to my GitHub page, where I'm constantly h
 - 📫 Feel free to reach out to me if you have any questions, suggestions, or just want to connect. My email :email: - girishgautam@yahoo.com
 
 #### Let's Connect
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/girish-joshi-68b6073).
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/girishjoshi123).
 Thanks for stopping by! Let's learn and grow together in this exciting journey of coding and data science. 🚀
 
 
