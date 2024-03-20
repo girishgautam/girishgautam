@@ -16,7 +16,7 @@ Hey there! I'm thrilled to welcome you to my GitHub page, where I'm constantly h
 - 🎥 I have a YouTube cooking channel called [Masala Chai](https://www.youtube.com/@Masala_Chai), where I share Indian recipes, and we've hit over 100K subscribers!
 
 #### Get in Touch
-- 📫 Feel free to reach out to me if you have any questions, suggestions, or just want to connect.
+- 📫 Feel free to reach out to me if you have any questions, suggestions, or just want to connect. My email - girishgautam@yahoo.com
 
 #### Let's Connect
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/girish-joshi-68b6073).
