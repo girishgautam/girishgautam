@@ -13,7 +13,7 @@ Hey there! I'm thrilled to welcome you to my GitHub page, where I'm constantly h
 - 🔧 Tools and Technologies: Experimenting with various tools and technologies relevant to data science.
 
 #### Fun Fact About Me
-- 🎥 I have a YouTube cooking channel called [Masala Chai](https://www.youtube.com/@Masala_Chai), where I share Indian recipes, and we've hit over 100K subscribers!
+- 🎥 I have a YouTube cooking channel called [Masala Chai](https://www.youtube.com/@Masala_Chai), where I share Indian recipes, and we've hit just over 90K subscribers!
 
 #### Get in Touch
 - 📫 Feel free to reach out to me if you have any questions, suggestions, or just want to connect. My email :email: - girishgautam@yahoo.com
