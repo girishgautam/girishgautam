@@ -9,8 +9,8 @@ Hey there! I'm thrilled to welcome you to my GitHub page, where I'm constantly h
 
 #### What You'll Find Here
 - 🚀 Coding Challenges: I love tackling coding challenges to sharpen my problem-solving skills.
-- 📝 Data Science Projects: Exploring the realm of data science through hands-on projects.
-- 🔧 Tools and Technologies: Experimenting with various tools and technologies relevant to data science.
+- 📝 Data Science Projects: Exploring the field of Data science through hands-on projects.
+- 🔧 Tools and Technologies: Experimenting with various tools and technologies relevant to Data science and Machine learning.
 
 #### Fun Fact About Me
 - 🎥 I have a YouTube cooking channel called [Masala Chai](https://www.youtube.com/@Masala_Chai), where I share Indian recipes, and we've hit just over 90K subscribers!
