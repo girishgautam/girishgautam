@@ -10,7 +10,7 @@ Hey there! I'm thrilled to welcome you to my GitHub page, where I'm constantly h
 #### What You'll Find Here
 - 🚀 Coding Challenges: I love tackling coding challenges to sharpen my problem-solving skills.
 - 📝 Data Science Projects: Exploring the field of Data science through hands-on projects.
-- Tableau Projects
+- 📊 Tableau Projects [Tableau Profile](https://public.tableau.com/app/profile/girishjoshi123/vizzes)
 - 🔧 Tools and Technologies: Experimenting with various tools and technologies relevant to Data science and Machine learning.
 
 #### Fun Fact About Me
