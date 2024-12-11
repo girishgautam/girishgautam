@@ -1,6 +1,6 @@
 ### Welcome to My GitHub Profile! 👋
 
-Hey there! I'm thrilled to welcome you to my GitHub page, where I'm constantly honing my coding skills through various challenges and projects. As I transition from the food industry into the exciting world of data science, this platform serves as my playground to learn, experiment, and grow as a developer.
+Hey there! I'm happy to welcome you to my GitHub page, where I'm constantly improving my coding skills through various challenges and projects. As I transition from the food industry into the exciting world of data science, this platform serves as my playground to learn, experiment, and grow as a developer.
 
 #### About Me
 - 🌱 Currently transitioning my career from the food industry to data science.
