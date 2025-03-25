@@ -9,7 +9,8 @@ Hey there! I'm happy to welcome you to my GitHub page, where I'm constantly impr
 
 #### What You'll Find Here
 - 🚀 Coding Challenges: I love tackling coding challenges to sharpen my problem-solving skills.
-- 📝 Data Science Projects: Exploring the field of Data science through hands-on projects.
+- 📝 Data Science Projects: Exploring the field of Data Science through hands-on projects.
+- 📝 Final Data Engineering Bootcamp Project: Building a scalable ETL pipeline for AWS-based analytics.
 - 📊 Tableau Projects [Tableau Profile](https://public.tableau.com/app/profile/girishjoshi123/vizzes)
 - 🔧 Tools and Technologies: Experimenting with various tools and technologies relevant to Data science and Machine learning.
 
